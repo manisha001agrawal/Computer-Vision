@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/67043518/120820774-76805e80-c572-11eb-8a23-f6a243624419.png)
 
 # Take 2 image and combine it to form single image.
-### first photo
+### First photo
 ![image](https://user-images.githubusercontent.com/67043518/120820929-9b74d180-c572-11eb-893f-c8c99b890ff3.png)
 
 ### Second photo
