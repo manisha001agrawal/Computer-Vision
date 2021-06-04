@@ -15,7 +15,7 @@
 ### Second photo
 ![image](https://user-images.githubusercontent.com/67043518/120821004-b1829200-c572-11eb-8927-0e81d8a0fb1d.png)
 
-### <u> Collage photo</u>
+### Collage photo
 ![image](https://user-images.githubusercontent.com/67043518/120821078-c4956200-c572-11eb-8007-239ff3b50df5.png)
 
 # Thank You
