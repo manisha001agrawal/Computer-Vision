@@ -3,7 +3,7 @@
 
 # Take 2 image crop some part of both image and swap it.
 ### Before swap
-![image](https://user-images.githubusercontent.com/67043518/120820613-5486dc00-c572-11eb-90d9-c0f8c2c6c195.png)
+![image](https://user-images.githubusercontent.com/67043518/120821240-ea226b80-c572-11eb-89a7-5178b16440e6.png)
 
 ### After swap
 ![image](https://user-images.githubusercontent.com/67043518/120820774-76805e80-c572-11eb-8a23-f6a243624419.png)
